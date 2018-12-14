@@ -1,0 +1,7 @@
+Open cmd
+mkdir C:\Code
+cd C:\Code
+git clone https://github.com/VVarPiglet/Arrival.git
+cd Arrival
+git status
+Git status should say something like "up to date"
